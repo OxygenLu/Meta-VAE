@@ -1,0 +1,25 @@
+# globel
+__pycache__
+checkpoints/lung_ct
+data/ct_images
+data/sc2ct
+
+# dir
+nd_results
+pos_raw
+pos_sk
+pos_vae
+shape1
+shape2
+shape3
+
+#zip
+data.zip
+
+#document
+plots_subcaptions.pdf
+plots.pdf
+test_model.ipynb
+
+viz_resnet50.ipynb
+viz.ipynb

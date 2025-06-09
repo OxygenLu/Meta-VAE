@@ -1,0 +1,16 @@
+tqdm
+numpy==2.2.4
+torch==2.5.0
+torchvision
+easydict
+pandas
+jupyter
+pyyaml
+ipykernel
+scipy
+tensorboard
+ftfy
+regex
+tqdm
+fightingcv-attention
+opencv-python
